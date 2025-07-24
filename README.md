@@ -14,6 +14,9 @@ Python-para-Data-Science/
 |
 └── 3python-data-science-funcoes-est-de-dados-excecoes/
 ├── Notebooks com exercícios curso
+|
+└── 4numpy-analise-numerica-eficiente-com-python/
+├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
 
 ```
 ---
@@ -50,10 +53,17 @@ Python-para-Data-Science/
 - Diferenciando os tipos de erros e exceções em códigos Python
 - Tratando erros e comportamentos indesejados em seu código
 
+### ✅ 4. NumPy: análise numérica eficiente com Python
+
+- Aprendendo a ler e escrever dados usando Numpy
+- Criando e manipule arrays multidimensionais
+- Aprendendo como gerar números aleatórios com a biblioteca Numpy
+- Descobrindo como utilizar seeds para trabalhar com aleatoriedade
+- Fazendo o cálculo de regressão linear com Numpy
+- Explorando funções de agregação na Numpy
 ---
 
 ### 🔜 Próximos cursos  
-- NumPy: análise numérica eficiente com Python  
 - Pandas: conhecendo a biblioteca
 - Pandas I/O: trabalhando com diferentes formatos de arquivos
 - Pandas: selecionando e agrupando dados
