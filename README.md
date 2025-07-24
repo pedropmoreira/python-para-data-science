@@ -14,7 +14,11 @@ Python-para-Data-Science/
 └── 3python-data-science-funcoes-est-de-dados-excecoes/
 ├── Notebooks com exercícios curso
 
+---
+
 ## 📚 Cursos e Competências Desenvolvidas  
+
+---
 
 ### ✅ 1. Python para Data Science: Primeiros Passos com Python para Data Science
 
@@ -44,6 +48,7 @@ Python-para-Data-Science/
 -- Diferenciando os tipos de erros e exceções em códigos Python
 -- Tratando erros e comportamentos indesejados em seu código
 
+---
 
 ### 🔜 Próximos cursos  
 NumPy: análise numérica eficiente com Python  
@@ -53,5 +58,6 @@ Pandas: selecionando e agrupando dados
 Pandas: transformação e manipulação de dados
 Pandas: limpeza e tratamento de dados
 
+---
 
 📌 **Objetivo:** Consolidar habilidades essenciais para análise e ciência de dados usando Python, preparando para atuar em projetos reais com boas práticas e foco em resultados.  
