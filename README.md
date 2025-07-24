@@ -66,7 +66,7 @@ Python-para-Data-Science/
 - Fazendo o cálculo de regressão linear com Numpy
 - Explorando funções de agregação na Numpy
 
-### ✅ 5. NumPy: Pandas: conhecendo a biblioteca
+### ✅ 5. Pandas: conhecendo a biblioteca
 
 - Utilizando os principais recursos da biblioteca Pandas pra desenvolver um projeto
 - Realizando análises exploratórias
