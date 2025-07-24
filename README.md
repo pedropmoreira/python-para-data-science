@@ -17,6 +17,10 @@ Python-para-Data-Science/
 |
 └── 4numpy-analise-numerica-eficiente-com-python/
 ├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
+|
+└── 5pandas-conhecendo-a-biblioteca/
+├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
+
 
 ```
 ---
@@ -61,10 +65,20 @@ Python-para-Data-Science/
 - Descobrindo como utilizar seeds para trabalhar com aleatoriedade
 - Fazendo o cálculo de regressão linear com Numpy
 - Explorando funções de agregação na Numpy
+
+### ✅ 5. NumPy: Pandas: conhecendo a biblioteca
+
+- Utilizando os principais recursos da biblioteca Pandas pra desenvolver um projeto
+- Realizando análises exploratórias
+- Construindo diferentes gráficos
+- Selecionando dados específicos
+- Aprendendo a lidar com dados nulos
+- Removendo linhas e colunas
+- Criando diversos tipos de colunas
+
 ---
 
 ### 🔜 Próximos cursos  
-- Pandas: conhecendo a biblioteca
 - Pandas I/O: trabalhando com diferentes formatos de arquivos
 - Pandas: selecionando e agrupando dados
 - Pandas: transformação e manipulação de dados
