@@ -24,8 +24,12 @@ Python-para-Data-Science/
 └── 6pandas-io-diferentes-formatos/
 ├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
 |
+└── 7-pandas-selecionando-e-agrupando-dados
+├── Notebooks com exercícios curso, e dados gerados ou utilizados
+|
 
 ```
+
 ---
 
 ## 📚 Cursos e Competências Desenvolvidas  
@@ -89,10 +93,17 @@ Python-para-Data-Science/
 - Escrevendo em um banco de dados local
 - Realizando consultas SQL
 
+### ✅ 7. Curso de Pandas: selecionando e agrupando dados
+
+- Selecionando e extraia informações a partir dos dados
+- Agrupando dados para criação de tabelas
+- Elaborando gráficos para ajudar na análise dos dados
+- Aplicando filtragem e seleção de dados usando a biblioteca pandas
+
 ---
 
 ### 🔜 Próximos cursos  
-- Pandas: selecionando e agrupando dados
+
 - Pandas: transformação e manipulação de dados
 - Pandas: limpeza e tratamento de dados
 
