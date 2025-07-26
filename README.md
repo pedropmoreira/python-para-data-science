@@ -67,7 +67,7 @@ Python-para-Data-Science/
 ### ✅ 4. NumPy: análise numérica eficiente com Python
 
 - Aprendendo a ler e escrever dados usando Numpy
-- Criando e manipule arrays multidimensionais
+- Criando e manipulando arrays multidimensionais
 - Aprendendo como gerar números aleatórios com a biblioteca Numpy
 - Descobrindo como utilizar seeds para trabalhar com aleatoriedade
 - Fazendo o cálculo de regressão linear com Numpy
@@ -95,7 +95,7 @@ Python-para-Data-Science/
 
 ### ✅ 7. Curso de Pandas: selecionando e agrupando dados
 
-- Selecionando e extraia informações a partir dos dados
+- Selecionando e extraindo informações a partir dos dados
 - Agrupando dados para criação de tabelas
 - Elaborando gráficos para ajudar na análise dos dados
 - Aplicando filtragem e seleção de dados usando a biblioteca pandas
