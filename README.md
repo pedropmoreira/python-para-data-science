@@ -20,7 +20,10 @@ Python-para-Data-Science/
 |
 └── 5pandas-conhecendo-a-biblioteca/
 ├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
-
+|
+└── 6pandas-io-diferentes-formatos/
+├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
+|
 
 ```
 ---
@@ -76,10 +79,19 @@ Python-para-Data-Science/
 - Removendo linhas e colunas
 - Criando diversos tipos de colunas
 
+### ✅ 6. Pandas I/O: trabalhando com diferentes formatos de arquivos
+
+- Entendendo o que são arquivos do tipo CSV, XLSX, JSON, HTML e XML
+- Compreendendo como trabalhar com diferentes tipos de dados, tanto na entrada como na saída (input/output)
+- Lendo dados provenientes do Google Planilhas
+- Obtendo tabelas a partir de páginas web
+- Criando um banco de dados local
+- Escrevendo em um banco de dados local
+- Realizando consultas SQL
+
 ---
 
 ### 🔜 Próximos cursos  
-- Pandas I/O: trabalhando com diferentes formatos de arquivos
 - Pandas: selecionando e agrupando dados
 - Pandas: transformação e manipulação de dados
 - Pandas: limpeza e tratamento de dados
