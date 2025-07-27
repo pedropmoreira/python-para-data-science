@@ -6,27 +6,29 @@
 ## 📂 Estrutura do Repositório
 Python-para-Data-Science/
 │
-├── 1aprimeiros-passos-python-para-data-science/
+├── 1-aprimeiros-passos-python-para-data-science/
 │ ├── Notebooks com exercícios curso
 │
-└── 2trabalhando-com-sets-python
+└── 2-trabalhando-com-sets-python
 ├── Notebooks com exercícios curso
 |
-└── 3python-data-science-funcoes-est-de-dados-excecoes/
+└── 3-python-data-science-funcoes-est-de-dados-excecoes/
 ├── Notebooks com exercícios curso
 |
-└── 4numpy-analise-numerica-eficiente-com-python/
+└── 4-numpy-analise-numerica-eficiente-com-python/
 ├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
 |
-└── 5pandas-conhecendo-a-biblioteca/
+└── 5-pandas-conhecendo-a-biblioteca/
 ├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
 |
-└── 6pandas-io-diferentes-formatos/
+└── 6-pandas-io-diferentes-formatos/
 ├── Notebooks com exercícios curso, e dados csvs gerados ou utilizados
 |
 └── 7-pandas-selecionando-e-agrupando-dados
 ├── Notebooks com exercícios curso, e dados gerados ou utilizados
 |
+└── 8-transformacao-e-manipulacao
+├── Notebooks com exercícios curso, e dados gerados ou utilizados
 
 ```
 
@@ -100,11 +102,19 @@ Python-para-Data-Science/
 - Elaborando gráficos para ajudar na análise dos dados
 - Aplicando filtragem e seleção de dados usando a biblioteca pandas
 
+### ✅ 8. Pandas: transformação e manipulação de dados
+
+Entendendo e aplicando comandos de transformação de dados
+Diferenciando os tipos de informação que estão presentes nos dados
+Manipulnando valores numéricos dentro do dataframe Pandas
+Distinguindo métodos de manipulação de dados textuais
+Realizando transformações com tipo datetime de dados
+Relacionando conversões de dados à construção de projetos
+
 ---
 
 ### 🔜 Próximos cursos  
 
-- Pandas: transformação e manipulação de dados
 - Pandas: limpeza e tratamento de dados
 
 ---
